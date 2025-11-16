@@ -26,7 +26,7 @@ Clean, preprocess, and analyze the given dataset for machine learning tasks.
 
 ##  Files in Repository
 - `student-mat.csv` — raw dataset  
-- `task_2.py` — preprocessing code  
+- `task_1.py` — preprocessing code  
 - `README.md` — documentation  
 
 ## How to Run(Google colab)
